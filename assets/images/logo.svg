@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
+    <!-- Yıldırım İkonu -->
+    <path d="M30 5 L20 30 L35 30 L25 55" 
+          stroke="#63C5DA" 
+          stroke-width="4" 
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+    
+    <!-- Murat İşbay Yazısı -->
+    <text x="50" y="38" 
+          font-family="Arial" 
+          font-size="28" 
+          font-weight="bold" 
+          fill="#333">
+       Usta Montaj
+    </text>
+    
+    <!-- Elektrik Servisi Alt Yazı -->
+    <text x="50" y="52" 
+          font-family="Arial" 
+          font-size="12" 
+          fill="#666">
+        Elektrik Servisi
+    </text>
+</svg>

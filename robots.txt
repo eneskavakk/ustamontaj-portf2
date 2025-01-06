@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ustamontaj.com/sitemap.xml
+
+# Disallow potentially sensitive directories
+Disallow: /assets/admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
